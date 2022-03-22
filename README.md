@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NEET007
-- 👀 I’m interested in Computer System
+- 👀 I’m interested in <font color="#dd0000">Computer System</font>
 - 🌱 I’m currently learning ui vi AE PS ID typography word excel ppt mysql python
 - 💞️ I’m looking to collaborate on startup
 - 📫 How to reach me sarsers@126.com
